@@ -1,0 +1,54 @@
+NN thu_vien 0.11 
+NP np pp 0.05 
+PP in nn 0.67 
+RB deu 0.09 
+ADJP rb adjp 0.33 
+VB hoc 0.04 
+S np vp 1.0 
+VP rb dt 0.03 
+VP vb vp 0.03 
+NN truong 0.22 
+VB o 0.04 
+VB muon 0.21 
+NP un nn 0.05 
+NP Nam 0.37 
+VP vb nn 0.18 
+RB rat 0.55 
+VB co 0.08 
+UN cuon 1.0 
+VP rb vb 0.21 
+IN cua 0.4 
+VB den 0.04 
+PP in nnp 0.17 
+CC va 1.0 
+NP np vb 0.03 
+VB thich 0.21 
+VP vp vb 0.03 
+NNP Lan 0.67 
+RB vua 0.09 
+NP sach 0.03 
+VP vp vp 0.12 
+NP dt np 0.03 
+ADJP hay 0.33 
+VB gap 0.04 
+NP Lan 0.13 
+DT nhieu 1.0 
+NN sach 0.61 
+VB doc 0.21 
+PP cc nnp 0.17 
+VP rb vp 0.03 
+NP vp np 0.03 
+NP np adjp 0.05 
+IN o 0.6 
+NP nn pp 0.11 
+VP vp np 0.18 
+NP nnp vb 0.03 
+VP vb np 0.21 
+RB hay 0.27 
+ADJP moi 0.33 
+CD mot 1.0 
+NNP Nam 0.33 
+VB cho 0.12 
+NP nn adjp 0.05 
+NN bai 0.06 
+NP cd np 0.05 

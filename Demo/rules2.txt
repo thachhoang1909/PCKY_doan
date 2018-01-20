@@ -1,0 +1,47 @@
+S->NP VP 1
+VP->VB NP 0.59
+VP->VB VP 0.18
+VP->RB VP 0.23
+PP->IN NP 1
+ADJP->RB NP 0.5
+ADJP->RB JJ 0.5
+NP->NN PP 0.07
+NP->NNP NP 0.04
+NP->CC NNP 0.04
+NP->NNP PP 0.04
+NP->NNP ADJP 0.04
+NP->NN ADJP 0.04
+NP->CD NP 0.07
+NP->UN NP 0.04
+NP->NN JJ 0.04
+NP->nam 0.33
+NP->bai 0.04
+NP->truong 0.1
+NP->sach 0.07
+NP->thuvien 0.04
+NP->lan 0.04
+VB->hoc 0.08
+VB->doc 0.22
+VB->o 0.08
+VB->thich 0.22
+VB->den 0.08
+VB->gap 0.08
+VB->cho 0.08
+VB->muon 0.08
+VB->co 0.08
+RB->rat 0.32
+RB->deu 0.17
+RB->vua 0.17
+RB->muon 0.17
+RB->hay 0.17
+NN->sach 1
+NNP->nam 0.25
+NNP->lan 0.75
+IN->o 0.67
+IN->cua 0.33
+CD->mot 0.5
+CD->nhieu 0.5
+JJ->hay 0.5
+JJ->moi 0.5
+UN->cuon 1
+CC->va 1
